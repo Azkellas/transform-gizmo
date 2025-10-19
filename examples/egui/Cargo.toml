@@ -12,6 +12,3 @@ publish = false
 [dependencies]
 transform-gizmo-egui.workspace = true
 eframe.workspace = true
-
-[lints]
-workspace = true

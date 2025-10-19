@@ -19,6 +19,3 @@ egui.workspace = true
 
 [dev-dependencies]
 eframe.workspace = true
-
-[lints]
-workspace = true

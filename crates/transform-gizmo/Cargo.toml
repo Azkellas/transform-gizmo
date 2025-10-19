@@ -22,6 +22,3 @@ mint.workspace = true
 enum_dispatch.workspace = true
 ahash.workspace = true
 enumset.workspace = true
-
-[lints]
-workspace = true
